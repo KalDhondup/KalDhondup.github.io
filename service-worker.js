@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/kaldhondup/precache-manifest.c6c884df0610363072d8e6b9c7585729.js"
+  "/kaldhondup/precache-manifest.5d5bf594a86011adaa2728e0a32b86af.js"
 );
 
 self.addEventListener('message', (event) => {

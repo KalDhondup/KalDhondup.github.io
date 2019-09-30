@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3e90ef65a5a75807e5e8e5c685944829",
+    "revision": "bb6278d17088ba25ea8e2db5c18e0b0d",
     "url": "/kaldhondup/index.html"
   },
   {
-    "revision": "194e1294930da11913cc",
+    "revision": "9f4e6d961c46e258a92f",
     "url": "/kaldhondup/static/css/main.dfca195d.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kaldhondup/static/js/2.aa06b81c.chunk.js"
   },
   {
-    "revision": "194e1294930da11913cc",
-    "url": "/kaldhondup/static/js/main.ed9b324c.chunk.js"
+    "revision": "9f4e6d961c46e258a92f",
+    "url": "/kaldhondup/static/js/main.67b82d5a.chunk.js"
   },
   {
     "revision": "592bbcf2654070b9c210",

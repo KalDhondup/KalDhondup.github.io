@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/kaldhondup/static/css/main.dfca195d.chunk.css",
-    "main.js": "/kaldhondup/static/js/main.ed9b324c.chunk.js",
-    "main.js.map": "/kaldhondup/static/js/main.ed9b324c.chunk.js.map",
+    "main.js": "/kaldhondup/static/js/main.67b82d5a.chunk.js",
+    "main.js.map": "/kaldhondup/static/js/main.67b82d5a.chunk.js.map",
     "runtime-main.js": "/kaldhondup/static/js/runtime-main.0ccd52a6.js",
     "runtime-main.js.map": "/kaldhondup/static/js/runtime-main.0ccd52a6.js.map",
     "static/js/2.aa06b81c.chunk.js": "/kaldhondup/static/js/2.aa06b81c.chunk.js",
     "static/js/2.aa06b81c.chunk.js.map": "/kaldhondup/static/js/2.aa06b81c.chunk.js.map",
     "index.html": "/kaldhondup/index.html",
-    "precache-manifest.c6c884df0610363072d8e6b9c7585729.js": "/kaldhondup/precache-manifest.c6c884df0610363072d8e6b9c7585729.js",
+    "precache-manifest.5d5bf594a86011adaa2728e0a32b86af.js": "/kaldhondup/precache-manifest.5d5bf594a86011adaa2728e0a32b86af.js",
     "service-worker.js": "/kaldhondup/service-worker.js",
     "static/css/main.dfca195d.chunk.css.map": "/kaldhondup/static/css/main.dfca195d.chunk.css.map",
     "static/media/logo.svg": "/kaldhondup/static/media/logo.25bf045c.svg"
